@@ -1,7 +1,7 @@
 Farsi to Finglish transliterator
 ===========
 
-**Note:** This project is old and unmaintained.
+**Note:** This project is old and no longer maintained.
 
 Farsi to Finglish converter is a Django based application that uses vowel represenations (in Persian) from Dehkhoda dictionary (www.loghatnaameh.com) and fa.wiktionary.org (currently as backup) and tries to guess better translations using google suggestions.
 
